@@ -230,7 +230,7 @@ prowlr team create "my-pack"
 **One agent is useful. A coordinated pack is unstoppable.**
 
 Built with love by the ProwlrBot community
-[GitHub](https://github.com/ProwlrBot) | [Docs](https://prowlrbot.com/docs) | [Blog](https://prowlrbot.com/blog) | [App](https://app.prowlr.com) | [License](https://github.com/ProwlrBot/prowlrbot/blob/main/LICENSE)
+[GitHub](https://github.com/ProwlrBot) | [Docs](https://prowlrbot.com/docs) | [Blog](https://prowlrbot.com/blog) | [App](https://app.prowlrbot.com) | [License](https://github.com/ProwlrBot/prowlrbot/blob/main/LICENSE)
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0d1117&height=120&section=footer" width="100%" />
