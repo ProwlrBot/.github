@@ -219,7 +219,7 @@ prowlr team create "my-pack"
 | **Discussions** | [github.com/ProwlrBot/prowlrbot/discussions](https://github.com/ProwlrBot/prowlrbot/discussions) |
 | **Issues** | [github.com/ProwlrBot/prowlrbot/issues](https://github.com/ProwlrBot/prowlrbot/issues) |
 | **Contributing** | [CONTRIBUTING.md](https://github.com/ProwlrBot/prowlrbot/blob/main/CONTRIBUTING.md) |
-| **Blog** | [prowlrbot.dev/blog](https://prowlrbot.dev/blog) |
+| **Blog** | [prowlrbot.com/blog](https://prowlrbot.com/blog) |
 
 <br/>
 
@@ -230,7 +230,7 @@ prowlr team create "my-pack"
 **One agent is useful. A coordinated pack is unstoppable.**
 
 Built with love by the ProwlrBot community
-[GitHub](https://github.com/ProwlrBot) | [Docs](https://prowlrbot.dev/docs) | [Blog](https://prowlrbot.dev/blog) | [License](https://github.com/ProwlrBot/prowlrbot/blob/main/LICENSE)
+[GitHub](https://github.com/ProwlrBot) | [Docs](https://prowlrbot.com/docs) | [Blog](https://prowlrbot.com/blog) | [App](https://app.prowlr.com) | [License](https://github.com/ProwlrBot/prowlrbot/blob/main/LICENSE)
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0d1117&height=120&section=footer" width="100%" />
